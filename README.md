@@ -97,6 +97,10 @@ The program has been tested for the following operations:
 
 This project demonstrates the practical application of fundamental C++ concepts, including structures, arrays, functions, input validation, and file handling. It also develops problem-solving skills through implementing common student record operations.
 
+## Screenshots
+
+Project screenshots showing source code, program outputs, file handling, and input-validation tests are available in the [`screenshots`](./screenshots/) folder.
+
 ## Conclusion
 
 The Student Record Management System provides a simple way to manage student information through a console-based interface. The project applies core C++ programming concepts to a practical problem and demonstrates record creation, retrieval, modification, deletion, and persistent storage.

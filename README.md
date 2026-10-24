@@ -39,7 +39,7 @@ The Student Record Management System is a menu-driven C++ application developed 
 | `students.txt` | Text file used to store student records |
 | `README.md` | Project description and instructions |
 | `screenshots/` | Program output and implementation evidence |
-| `Devixo_Task01_Report.pdf` | Project documentation report |
+| `Devixo Solutions Internship TAsk 01 report.pdf` | Project documentation report |
 
 ## How to Compile and Run
 
